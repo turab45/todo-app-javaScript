@@ -7,7 +7,7 @@ This project is my first project using html, css and javaScript to get a hands o
 * JavaScript
 
 # Watch Video!
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/tvoc-Dfrw2A)
+[![Watch the video](https://youtu.be/tvoc-Dfrw2A)
 
 # First Look
 It is designed beautifully to interact the user. I have used bootstrap to make it's look attractive!
